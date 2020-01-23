@@ -1,5 +1,5 @@
 req=int(input("Enter the number of candies required by the user:"))
-avl=int(input("Enter the number of candies available in the vending machine::"))
+avl=int(input("Enter the number of candies available in the vending machine:"))
 i=1
 while i<=req:
     if i>avl:
@@ -10,3 +10,5 @@ while i<=req:
     i+=1
 print("Bye Pythonists..!!!Nice meeting You!!!")
 print("Hello to GitHub!!!")
+print()
+print("Lets add one more line!!!")
